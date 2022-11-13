@@ -1,6 +1,3 @@
 # IKuns
-EFK in robots group
-这一版本的多机器人协同定位采取的是通过机器人的自身返回值加以数学方法的计算值作为输入的扩展卡尔曼滤波算法来提升定位精度。
-其中，EKF.py是扩展卡尔曼滤波算法的代码实现部分，其中的观测部分暂时以数学方法计算代替。
-final6.py是本项目的主程序部分，通过该代码，可以自由控制多台机器人的移动并且获取每轮移动后精度得到提升的定位以及最终的轨迹图展示。
-visualization.py是final6.py中实现轨迹图的前置代码。
+EFK in robots group.
+welcome to our github.
