@@ -77,3 +77,5 @@ def showall(IP_LIST):
     #     plt.annotate(round(z[i],2),xy=(x[i],y[i]),xytext=(x[i],y[i]))    #数字化显示机器人朝向角度
     plt.show()
 
+
+    
